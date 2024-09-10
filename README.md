@@ -9,3 +9,17 @@ This project aims to analyze sales data from a Superstore using Tableau. The ana
      - Order ID, Customer ID, Segment, Product Category, Sales, Quantity, Discount, Profit, Region, etc.
   
 The dataset contains information on orders, products, customers, and sales transactions. It helps in understanding sales trends and performance across various regions, categories, and customer segments.
+
+# Objectives of the Analysis #
+
+- Sales Performance: Understand total sales, profit, and discount patterns across different segments.
+- Regional Analysis: Determine the highest and lowest performing regions in terms of sales and profit.
+- Product Category Analysis: Analyze which product categories and sub-categories generate the most revenue.
+- Customer Segment Insights: Identify which customer segments contribute the most to sales and profit.
+- Time Series Analysis: Study sales trends over the given period (December 2016 - May 2017).
+
+# Tools Used #
+- Data Visualization Tool: Tableau
+- Dataset: Superstore dataset (CSV format)
+
+  
